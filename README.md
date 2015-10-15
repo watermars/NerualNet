@@ -1,0 +1,2 @@
+# NerualNet
+neuralNet in C++
